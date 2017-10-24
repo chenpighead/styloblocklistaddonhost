@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="styloblocklist@mozilla.org" URL="https://chenpighead.github.io/styloblocklistaddonhost/styloblocklist_signed_v0.2.xpi" hashFunction="sha512" hashValue="8cf1d365b7e867cf9f65424e054f8b7fcf9186088fe5111e2887735301543b665dfa14e1e009636aabfb5fa93ea03e1a89335f42c25fb42b91cfbb5e3836146e" size="5916" version="0.2"/>
+    </addons>
+</updates>
